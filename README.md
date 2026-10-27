@@ -9,6 +9,7 @@ Instagram-এ **যন্ত্রমন্ত্র**-র Arduino পর্ব�
 | Arduino ক্লাস #৫ | ঠিক কোণে থামা Servo মোটর 🎯 | [servo](servo/servo.ino) |
 | Arduino ক্লাস #৬ | Buzzer-এ সা রে গা মা 🎵 | [buzzer_sargam](buzzer_sargam/buzzer_sargam.ino) |
 | Arduino ক্লাস #৭ | ঘরে কেউ ঢুকলেই অ্যালার্ম 🚨 | [pir_alarm](pir_alarm/pir_alarm.ino) |
+| Arduino ক্লাস #৮ | মাটি শুকোলেই গাছ চেঁচাবে 🌱 | [plant_alarm](plant_alarm/plant_alarm.ino) |
 
 তার কোথায় জুড়বে, সেটা প্রতিটা ফাইলের একদম ওপরে লেখা আছে।
 
